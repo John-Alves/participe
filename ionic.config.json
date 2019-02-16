@@ -1,0 +1,8 @@
+{
+  "name": "participe",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "330ddd42"
+}
